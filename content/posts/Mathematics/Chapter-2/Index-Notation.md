@@ -3,9 +3,6 @@ title: 'Mathematics Index Notation Notes'
 date: 2022-10-14T00:00:00+08:00
 draft: false
 ---
-
-# Index Notation 
-
 Here we will learn about simple index notation including how to write an expression using index notation and how to simplify expressions written in index form.
 
 ### What is index notation?
