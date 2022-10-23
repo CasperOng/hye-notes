@@ -5,10 +5,10 @@ other = "More"
 other = "All {{.Title }}"
 
 [recentTitle]
-other = "Recent {{.Title }}"
+other = "Recent Notes"
 
 [readMore]
-other = "read more"
+other = "Read more about this post"
 
 [whatsInThis]
 other = "What's in this {{ .Type }}"
