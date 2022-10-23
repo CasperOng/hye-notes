@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://ut-notes.casperong.xyz/"
 languageCode = "en-us"
 title = "Uniform Test Notes"
 theme = "ananke"
