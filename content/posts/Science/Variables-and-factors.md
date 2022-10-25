@@ -31,5 +31,5 @@ Experiments also have controlled variables. Controlled variables are quantities 
 #### Handwritten Notes
 <details> 
   <summary>Click Me!</summary>
-Will be uploaded later.
+![IMG_0038](https://user-images.githubusercontent.com/90828938/197751202-8a678a70-9bcc-4f35-a3d4-3b1fcefd4f7e.PNG)
 </details>
