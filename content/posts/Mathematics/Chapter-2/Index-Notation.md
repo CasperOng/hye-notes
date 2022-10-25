@@ -16,24 +16,21 @@ We use index notations to simplify expressions or solve equations involving powe
 #### Examples
 <details> 
   <summary>Simplify 16 × 16 × 16 × 16</summary>
-16 is being multiplied by itself 4 times.
-
-We can therefore write this as 16⁴
-This is said as “16 to the power of 4”
+16 is being multiplied by itself 4 times. <br/>
+We can therefore write this as 16⁴ <br/>
+This is said as “16 to the power of 4” <br/>
 </details>
 
 <details> 
   <summary>Simplify  n × n × n × n</summary>
-n is being multiplied by itself 4 times.
-
-We can therefore write this as n⁴
-This is said as “n to the power of 4”
+n is being multiplied by itself 4 times. <br/>
+We can therefore write this as n⁴ <br/>
+This is said as “n to the power of 4” <br/>
 </details>
 
 <details> 
   <summary>Simplify  6y × 6y × 6y × 6y</summary>
-6y is being multiplied by itself 4 times.
-
-We can therefore write this as 6y⁴
-This is said as “6y to the power of 4”
+6y is being multiplied by itself 4 times. <br/>
+We can therefore write this as 6y⁴ <br/>
+This is said as “6y to the power of 4” <br/>
 </details>
