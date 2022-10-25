@@ -1,6 +1,8 @@
 ---
 title: 'What are Variables?'
 date: 2022-10-25T17:00:00+08:00
+categories:
+  - Science
 draft: false
 ---
 These factors that change in a scientific experiment are variables.
