@@ -2,7 +2,7 @@
 title: 'Mathematics Basic Computation Notes'
 date: 2022-10-13T00:00:00+08:00
 categories:
-  - Mathematics
+  - Math
 draft: false
 ---
 
