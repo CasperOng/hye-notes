@@ -1,5 +1,5 @@
 ---
-title: '《一件小事》Refrence'
+title: '《一件小事》Reference'
 date: 2022-10-13T00:23:25+08:00
 categories:
   - Chis
