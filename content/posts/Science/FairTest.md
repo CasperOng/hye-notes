@@ -7,4 +7,4 @@ draft: false
 
 It is important for an experiment to be a **fair test**. You conduct a fair test by making sure that you change one factor at a time while keeping all other conditions the same.
 
-#### Ways to answer a is the experiment fair:
+#### Ways to answer is the experiment fair:
