@@ -3,4 +3,7 @@ languageCode = "en-us"
 title = "Half Yearly Exam Notes"
 theme = "ananke"
 summaryLength = "0"
-author = "authors"
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
