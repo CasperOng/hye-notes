@@ -1,4 +1,8 @@
-# Hugo Example
+# TL;DR
+- Terminal Theme
+- Add more different types and subject notes
+
+<!-- # Hugo Example
 
 This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed to Vercel with zero configuration.
 
@@ -16,4 +20,4 @@ To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](
 
 ```shell
 $ hugo new site project-name
-```
+``` -->
