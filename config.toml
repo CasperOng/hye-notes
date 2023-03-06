@@ -1,9 +1,51 @@
-baseurl = "/"
- languageCode = "en-us"
- title = "Half Yearly Exam Notes"
- theme = "ananke"
- summaryLength = "0"
- [taxonomies]
-   author = "authors"
-   tag = "tags"
-   category = "categories"
+baseURL = "/"
+languageCode = "en-us"
+title = "Notes"
+theme = "archie"
+copyright = "© Casper Ong"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+paginate = 4
+
+summarylength = 30 # Set the length of preview words
+hasCJKLanguage = true # Must enable this for the summarylength function words properly.
+
+[params]
+favicon = "favicon.png"
+og_image = "https://raw.githubusercontent.com/athul/archie/master/images/archie-dark.png"
+# mode = "auto"
+mode = "toggle"
+useCDN = true
+subtitle = "A place for you to share your secondary school notes." 
+description = "Notes is a simple place for you to share your secondary school notes to other."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/casperong"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/casper.ong.ny"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
