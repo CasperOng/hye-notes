@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Notes</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Casper Ong</copyright>
+    <lastBuildDate>Mon, 09 Jan 2023 00:15:10 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chis</title>
+      <link>/categories/chis/</link>
+      <pubDate>Mon, 09 Jan 2023 00:15:10 +0800</pubDate>
+      
+      <guid>/categories/chis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histk</title>
+      <link>/categories/histk/</link>
+      <pubDate>Mon, 26 Dec 2022 00:23:49 +0800</pubDate>
+      
+      <guid>/categories/histk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hist</title>
+      <link>/categories/hist/</link>
+      <pubDate>Sat, 29 Oct 2022 00:23:25 +0800</pubDate>
+      
+      <guid>/categories/hist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/categories/science/</link>
+      <pubDate>Tue, 25 Oct 2022 17:00:00 +0800</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>/categories/math/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0800</pubDate>
+      
+      <guid>/categories/math/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Notes</title>
+    <link>/categories/science/</link>
+    <description>Recent content in Science on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Casper Ong</copyright>
+    <lastBuildDate>Tue, 25 Oct 2022 17:00:00 +0800</lastBuildDate><atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fair Test</title>
+      <link>/posts/science/fairtest/</link>
+      <pubDate>Tue, 25 Oct 2022 17:00:00 +0800</pubDate>
+      
+      <guid>/posts/science/fairtest/</guid>
+      <description>It is important for an experiment to be a fair test. You conduct a fair test by making sure that you change one factor at a time while keeping all other conditions the same.</description>
+    </item>
+    
+    <item>
+      <title>What are Variables?</title>
+      <link>/posts/science/variables-and-factors/</link>
+      <pubDate>Tue, 25 Oct 2022 17:00:00 +0800</pubDate>
+      
+      <guid>/posts/science/variables-and-factors/</guid>
+      <description>These factors that change in a scientific experiment are variables.
+Question Independent Variable (What I change) Dependent Variables (What I observe) Controlled Variables (What I keep the same) Does heating water allow it to dissolve more sugar?</description>
+    </item>
+    
+  </channel>
+</rss>

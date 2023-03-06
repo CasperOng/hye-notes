@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Notes</title>
+    <link>/categories/math/</link>
+    <description>Recent content in Math on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Casper Ong</copyright>
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0800</lastBuildDate><atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics Index Notation Notes</title>
+      <link>/posts/mathematics/chapter-2/index-notation/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/mathematics/chapter-2/index-notation/</guid>
+      <description>Here we will learn about simple index notation including how to write an expression using index notation and how to simplify expressions written in index form.
+What is index notation? Index notation is a way of representing numbers (constants) and variables (e.</description>
+    </item>
+    
+    <item>
+      <title>Mathematics Basic Computation Notes</title>
+      <link>/posts/mathematics/chapter-1/basic-computation/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/mathematics/chapter-1/basic-computation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
